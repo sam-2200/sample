@@ -10,7 +10,7 @@
  */
 const fs = require("fs");
 const PDFServicesSdk = require("@adobe/pdfservices-node-sdk");
-const directory = "january2";
+const directory = "res";
 /**
  * This sample illustrates how to extract Text Information from PDF.
  * <p>
